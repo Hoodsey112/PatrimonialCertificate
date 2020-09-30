@@ -1,0 +1,39 @@
+2019-10-16 10:12:11.8426 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   в Родовые_сертификаты.AddPatient.FuncUpdateMother() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\AddPatient.cs:строка 128
+//----------------------------//
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2851239' at line 1
+
+
+2019-10-16 10:13:08.3792 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   в Родовые_сертификаты.AddPatient.FuncUpdateMother() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\AddPatient.cs:строка 128
+//----------------------------//
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2851239' at line 1
+
+
+2019-10-16 10:14:58.7062 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   в Родовые_сертификаты.AddPatient.FuncUpdateMother() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\AddPatient.cs:строка 128
+//----------------------------//
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2851239' at line 1
+
+

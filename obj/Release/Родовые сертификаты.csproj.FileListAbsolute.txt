@@ -1,0 +1,38 @@
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\bin\Release\NLog.config
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\bin\Release\Родовые сертификаты.exe.config
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\bin\Release\Родовые сертификаты.exe
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\bin\Release\Родовые сертификаты.pdb
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\bin\Release\MySql.Data.dll
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\bin\Release\NLog.dll
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\bin\Release\NLog.xml
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\obj\Release\Родовые_сертификаты.ConnectionSettingsForm.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\obj\Release\Родовые_сертификаты.MainForm.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\obj\Release\Родовые_сертификаты.Properties.Resources.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\obj\Release\Родовые сертификаты.csproj.GenerateResource.cache
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\obj\Release\Родовые сертификаты.csproj.CoreCompileInputs.cache
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\obj\Release\Родовые сертификаты.csproj.CopyComplete
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\obj\Release\Родовые сертификаты.exe
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\obj\Release\Родовые сертификаты.pdb
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\bin\Release\NLog.config
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\bin\Release\Родовые сертификаты.exe.config
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\bin\Release\Родовые сертификаты.exe
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\bin\Release\Родовые сертификаты.pdb
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\bin\Release\MySql.Data.dll
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\bin\Release\NLog.dll
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\bin\Release\NLog.xml
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые_сертификаты.AddBerem.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые_сертификаты.AddChildForm.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые_сертификаты.AddPatient.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые_сертификаты.BeremForm.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые_сертификаты.ConnectionSettingsForm.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые_сертификаты.MainForm.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые_сертификаты.LPUForm.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые_сертификаты.Main0.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые_сертификаты.ParturientForm.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые_сертификаты.Properties.Resources.resources
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые сертификаты.csproj.GenerateResource.cache
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые сертификаты.csproj.CopyComplete
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые сертификаты.exe
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые сертификаты.pdb
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые сертификаты.csprojAssemblyReference.cache
+C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\obj\Release\Родовые сертификаты.csproj.CoreCompileInputs.cache

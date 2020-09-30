@@ -1,0 +1,41 @@
+2019-10-18 08:46:04.4680 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.NativeDriver.Open()
+   в MySql.Data.MySqlClient.Driver.Open()
+   в MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   в MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   в MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   в MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   в MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   в MySql.Data.MySqlClient.MySqlConnection.Open()
+   в Родовые_сертификаты.ConnectionSettingsForm.BtnCheckConnect_Click(Object sender, EventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\ConnectingSettingsForm.cs:строка 120
+//----------------------------//
+Unable to connect to any of the specified MySQL hosts.
+
+
+2019-10-18 13:35:27.9438 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.LoadClass.FuncLoad(String dateFrom, String dateTo) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\LoadClass.cs:строка 133
+//----------------------------//
+Unknown column 'c.id' in 'field list'
+
+
+2019-10-18 13:55:34.3054 DEBUG 
+/--------------------------------------------------------------------/
+   в Родовые_сертификаты.ParturientForm.EditRodBTN() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\ParturientForm.cs:строка 36
+//----------------------------//
+Ссылка на объект не указывает на экземпляр объекта.
+
+
+2019-10-18 13:55:41.0087 DEBUG 
+/--------------------------------------------------------------------/
+   в Родовые_сертификаты.BeremForm.AddBeremBTN() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\BeremForm.cs:строка 148
+//----------------------------//
+Ссылка на объект не указывает на экземпляр объекта.
+
+

@@ -1,0 +1,10 @@
+2019-09-12 08:01:24.3912 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   в MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   в MySql.Data.MySqlClient.MySqlDataReader.Read()
+   в Родовые_сертификаты.ParturientForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\ParturientForm.cs:строка 110
+//----------------------------//
+Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+

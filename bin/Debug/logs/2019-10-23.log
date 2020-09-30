@@ -1,0 +1,22 @@
+2019-10-23 10:41:32.3728 DEBUG 
+/--------------------------------------------------------------------/
+   в System.Data.NameNode.Bind(DataTable table, List`1 list)
+   в System.Data.BinaryNode.Bind(DataTable table, List`1 list)
+   в System.Data.DataExpression.Bind(DataTable table)
+   в System.Data.DataView.set_RowFilter(String value)
+   в Родовые_сертификаты.ParturientForm.tbSearch_TextChanged(Object sender, EventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\ParturientForm.cs:строка 135
+//----------------------------//
+Не удается найти столбец [fio].
+
+
+2019-10-23 10:42:02.4658 DEBUG 
+/--------------------------------------------------------------------/
+   в System.Data.NameNode.Bind(DataTable table, List`1 list)
+   в System.Data.BinaryNode.Bind(DataTable table, List`1 list)
+   в System.Data.DataExpression.Bind(DataTable table)
+   в System.Data.DataView.set_RowFilter(String value)
+   в Родовые_сертификаты.ParturientForm.tbSearch_TextChanged(Object sender, EventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\ParturientForm.cs:строка 135
+//----------------------------//
+Не удается найти столбец [FIO].
+
+

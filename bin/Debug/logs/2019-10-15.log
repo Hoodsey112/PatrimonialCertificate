@@ -1,0 +1,20 @@
+2019-10-15 16:32:53.0283 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.Common.MyNetworkStream.HandleOrRethrowException(Exception e)
+   в MySql.Data.Common.MyNetworkStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в MySql.Data.MySqlClient.TimedStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в MySql.Data.MySqlClient.MySqlStream.SendPacket(MySqlPacket packet)
+   в MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   в MySql.Data.MySqlClient.NativeDriver.Open()
+   в MySql.Data.MySqlClient.Driver.Open()
+   в MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   в MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   в MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   в MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   в MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   в MySql.Data.MySqlClient.MySqlConnection.Open()
+   в Родовые_сертификаты.BeremForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\BeremForm.cs:строка 71
+//----------------------------//
+Не удается записать данные в транспортное соединение: Удаленный хост принудительно разорвал существующее подключение.
+
+

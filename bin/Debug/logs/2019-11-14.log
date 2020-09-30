@@ -1,0 +1,76 @@
+2019-11-14 10:27:26.7977 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.LoadClass.FuncINSRT(Int32 client_id) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\LoadClass.cs:строка 184
+//----------------------------//
+Column 'id' in field list is ambiguous
+
+
+2019-11-14 10:27:28.4837 DEBUG 
+/--------------------------------------------------------------------/
+   в Родовые_сертификаты.AddPatient.AddPatient_Load(Object sender, EventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\AddPatient.cs:строка 251
+//----------------------------//
+Ссылка на объект не указывает на экземпляр объекта.
+
+
+2019-11-14 11:27:08.3337 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.LoadClass.FuncINSRT(Int32 client_id) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\LoadClass.cs:строка 184
+//----------------------------//
+Column 'id' in field list is ambiguous
+
+
+2019-11-14 11:27:09.8977 DEBUG 
+/--------------------------------------------------------------------/
+   в Родовые_сертификаты.AddPatient.AddPatient_Load(Object sender, EventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\AddPatient.cs:строка 251
+//----------------------------//
+Ссылка на объект не указывает на экземпляр объекта.
+
+
+2019-11-14 13:09:32.4937 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.LoadClass.FuncINSRT(Int32 client_id) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\LoadClass.cs:строка 205
+//----------------------------//
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'address, IF(c.SNILS is null, '', c.SNILS) SNILS, IF(cp.serial is null, '', cp.se' at line 1
+
+
+2019-11-14 13:09:33.8287 DEBUG 
+/--------------------------------------------------------------------/
+   в Родовые_сертификаты.AddPatient.AddPatient_Load(Object sender, EventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\AddPatient.cs:строка 251
+//----------------------------//
+Ссылка на объект не указывает на экземпляр объекта.
+
+
+2019-11-14 13:10:20.1137 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.LoadClass.FuncINSRT(Int32 client_id) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\LoadClass.cs:строка 205
+//----------------------------//
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'address, IF(c.SNILS is null, '', c.SNILS) SNILS, IF(cp.serial is null, '', cp.se' at line 1
+
+
+2019-11-14 13:10:20.8167 DEBUG 
+/--------------------------------------------------------------------/
+   в Родовые_сертификаты.AddPatient.AddPatient_Load(Object sender, EventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\AddPatient.cs:строка 251
+//----------------------------//
+Ссылка на объект не указывает на экземпляр объекта.
+
+

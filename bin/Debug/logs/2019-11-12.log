@@ -1,0 +1,24 @@
+2019-11-12 11:36:54.2661 DEBUG 
+/--------------------------------------------------------------------/
+   в System.Collections.ArrayList.get_Item(Int32 index)
+   в System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   в System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   в System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   в Родовые_сертификаты.AddPatient.AddChild_MouseClick(Object sender, MouseEventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\AddPatient.cs:строка 400
+//----------------------------//
+Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+
+
+2019-11-12 11:46:51.5675 DEBUG 
+/--------------------------------------------------------------------/
+   в System.Collections.ArrayList.get_Item(Int32 index)
+   в System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   в System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   в System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   в Родовые_сертификаты.AddPatient.AddChild_MouseClick(Object sender, MouseEventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\AddPatient.cs:строка 400
+//----------------------------//
+Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+
+

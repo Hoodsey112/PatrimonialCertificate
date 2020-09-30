@@ -1,0 +1,36 @@
+2019-10-14 10:24:51.0728 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   в MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   в MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   в MySql.Data.MySqlClient.NativeDriver.Open()
+   в MySql.Data.MySqlClient.Driver.Open()
+   в MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   в MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   в MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   в MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   в MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   в MySql.Data.MySqlClient.MySqlConnection.Open()
+   в Родовые_сертификаты.BeremForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\BeremForm.cs:строка 73
+//----------------------------//
+Authentication to host '172.16.16.175' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'RodCertificate'
+
+
+2019-10-14 10:32:48.3167 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   в MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   в MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   в MySql.Data.MySqlClient.NativeDriver.Open()
+   в MySql.Data.MySqlClient.Driver.Open()
+   в MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   в MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   в MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   в MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   в MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   в MySql.Data.MySqlClient.MySqlConnection.Open()
+   в Родовые_сертификаты.ConnectionSettingsForm.LoadDBDefault() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\ConnectionSettingsForm.cs:строка 52
+//----------------------------//
+Authentication to host '172.16.16.175' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'RodCertificate'
+
+

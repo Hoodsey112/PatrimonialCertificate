@@ -1,0 +1,29 @@
+2019-09-05 08:36:43.1449 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   в MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.ParturientForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\ParturientForm.cs:строка 78
+//----------------------------//
+Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+2019-09-05 14:08:24.6753 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.ParturientForm.FuncLoadFromTable() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\ParturientForm.cs:строка 160
+//----------------------------//
+Table 's11.BTAL2' doesn't exist
+
+
+2019-09-05 15:14:10.6062 DEBUG 
+/--------------------------------------------------------------------/
+   в Родовые_сертификаты.MainForm.FuncLoadFromTable() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Form1.cs:строка 559
+//----------------------------//
+Ссылка на объект не указывает на экземпляр объекта.
+
+

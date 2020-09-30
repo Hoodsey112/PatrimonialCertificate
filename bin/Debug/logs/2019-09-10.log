@@ -1,0 +1,62 @@
+2019-09-10 11:16:07.5453 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   в MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   в MySql.Data.MySqlClient.MySqlDataReader.Read()
+   в System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   в System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   в System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   в System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   в Родовые_сертификаты.BeremForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\BeremForm.cs:строка 69
+//----------------------------//
+Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+2019-09-10 11:44:22.2991 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   в MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.BeremForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\BeremForm.cs:строка 69
+//----------------------------//
+Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+2019-09-10 13:04:52.8786 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   в MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   в MySql.Data.MySqlClient.MySqlDataReader.Read()
+   в System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   в System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   в System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   в System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   в Родовые_сертификаты.BeremForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\BeremForm.cs:строка 68
+//----------------------------//
+Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+2019-09-10 13:06:12.4046 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   в MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.BeremForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\BeremForm.cs:строка 68
+//----------------------------//
+Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+2019-09-10 13:23:15.8626 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   в MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   в MySql.Data.MySqlClient.MySqlDataReader.Read()
+   в System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   в System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   в System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   в System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   в Родовые_сертификаты.BeremForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\BeremForm.cs:строка 74
+//----------------------------//
+Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+

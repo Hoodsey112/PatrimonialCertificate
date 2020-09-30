@@ -1,0 +1,8 @@
+2020-01-27 08:47:27.6381 DEBUG 
+/--------------------------------------------------------------------/
+   в System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   в Родовые_сертификаты.MainForm.MainForm_Load(Object sender, EventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\Form1.cs:строка 128
+//----------------------------//
+Параметры Year, Month и Day описывают непредставимое значение DateTime.
+
+

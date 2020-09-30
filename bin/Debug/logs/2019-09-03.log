@@ -1,0 +1,60 @@
+2019-09-03 11:04:06.2196 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.ParturientForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\ParturientForm.cs:строка 76
+//----------------------------//
+Table 'rodcertificate.event' doesn't exist
+
+
+2019-09-03 11:09:11.4675 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.ParturientForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\ParturientForm.cs:строка 76
+//----------------------------//
+Table 'rodcertificate.event' doesn't exist
+
+
+2019-09-03 11:12:02.6846 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.MainForm.LoadAll() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Form1.cs:строка 348
+//----------------------------//
+Table 's11.RodCertif' doesn't exist
+
+
+2019-09-03 11:12:03.8418 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.MainForm.LoadDGV_berem() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Form1.cs:строка 455
+//----------------------------//
+Table 's11.RodCertif' doesn't exist
+
+
+2019-09-03 11:12:04.5228 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   в MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   в MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   в MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.MainForm.LoadDGV_afterBerem() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Form1.cs:строка 492
+//----------------------------//
+Table 's11.RodCertif' doesn't exist
+
+

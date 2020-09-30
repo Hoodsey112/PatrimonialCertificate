@@ -1,0 +1,7 @@
+2019-11-26 13:34:24.3348 DEBUG 
+/--------------------------------------------------------------------/
+   в Родовые_сертификаты.MainForm.BtnSelectFile_Click(Object sender, EventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\Form1.cs:строка 217
+//----------------------------//
+Не удалось привести тип объекта "System.Windows.Forms.Button" к типу "System.Windows.Forms.CheckBox".
+
+

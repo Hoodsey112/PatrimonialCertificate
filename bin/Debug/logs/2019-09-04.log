@@ -1,0 +1,30 @@
+2019-09-04 08:33:05.7911 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   в MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.ParturientForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\ParturientForm.cs:строка 77
+//----------------------------//
+Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+2019-09-04 08:34:14.5781 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   в MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   в MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   в Родовые_сертификаты.ParturientForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\ParturientForm.cs:строка 77
+//----------------------------//
+Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+2019-09-04 08:35:41.5631 DEBUG 
+/--------------------------------------------------------------------/
+   в MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   в MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   в MySql.Data.MySqlClient.MySqlDataReader.Read()
+   в Родовые_сертификаты.ParturientForm.FuncLoad() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\ParturientForm.cs:строка 79
+//----------------------------//
+Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+

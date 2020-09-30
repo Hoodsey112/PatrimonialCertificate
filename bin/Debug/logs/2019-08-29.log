@@ -1,0 +1,50 @@
+2019-08-29 11:28:08.8388 DEBUG 
+/--------------------------------------------------------------------/
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в Родовые_сертификаты.MainForm.LoadAll() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\Form1.cs:строка 359
+//----------------------------//
+Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+
+
+2019-08-29 11:30:18.4458 DEBUG 
+/--------------------------------------------------------------------/
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в Родовые_сертификаты.MainForm.LoadAll() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\Form1.cs:строка 359
+//----------------------------//
+Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+
+
+2019-08-29 11:35:50.1775 DEBUG 
+/--------------------------------------------------------------------/
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в Родовые_сертификаты.MainForm.LoadAll() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\Form1.cs:строка 359
+//----------------------------//
+Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+
+
+2019-08-29 11:36:04.6955 DEBUG 
+/--------------------------------------------------------------------/
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в Родовые_сертификаты.MainForm.LoadAll() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\Form1.cs:строка 359
+//----------------------------//
+Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+
+
+2019-08-29 11:36:42.7415 DEBUG 
+/--------------------------------------------------------------------/
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в Родовые_сертификаты.MainForm.LoadAll() в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\Form1.cs:строка 359
+//----------------------------//
+Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+
+

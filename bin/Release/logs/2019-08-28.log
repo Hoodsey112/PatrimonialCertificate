@@ -1,0 +1,10 @@
+2019-08-28 10:25:12.5960 DEBUG 
+/--------------------------------------------------------------------/
+   в Microsoft.Office.Interop.Excel.Workbooks.Open(String Filename, Object UpdateLinks, Object ReadOnly, Object Format, Object Password, Object WriteResPassword, Object IgnoreReadOnlyRecommended, Object Origin, Object Delimiter, Object Editable, Object Notify, Object Converter, Object AddToMru, Object Local, Object CorruptLoad)
+   в Родовые_сертификаты.MainForm.ExportMenu_Click(Object sender, EventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\Form1.cs:строка 503
+//----------------------------//
+Не удалось найти "C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate\Родовые сертификаты\bin\Release\Мониторинг Проектного комитета (Родовые сертификаты).xlsx". Проверьте правильность ввода имени и расположения файла.
+
+При попытке открытия файла из списка недавно использованных файлов убедитесь, что файл не был переименован, перемещен или удален.
+
+

@@ -1,0 +1,8 @@
+2019-12-05 12:45:46.2416 DEBUG 
+/--------------------------------------------------------------------/
+   в System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   в Родовые_сертификаты.AddBerem.AddBerem_Load(Object sender, EventArgs e) в C:\Users\ХудяковПЮ\source\repos\PatrimonialCertificate_new\Родовые сертификаты\Forms\AddBerem.cs:строка 55
+//----------------------------//
+Строка не распознана как действительное значение DateTime.
+
+

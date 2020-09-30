@@ -1,0 +1,90 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Родовые_сертификаты.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">172.16.16.172</Value>
+    </Setting>
+    <Setting Name="user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fg67klbn0</Value>
+    </Setting>
+    <Setting Name="database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RodCertificate</Value>
+    </Setting>
+    <Setting Name="INN_LPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2309039134</Value>
+    </Setting>
+    <Setting Name="RegNumb_LPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2303151117</Value>
+    </Setting>
+    <Setting Name="KPP_LPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">230901001</Value>
+    </Setting>
+    <Setting Name="OGRN_LPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1022301425629</Value>
+    </Setting>
+    <Setting Name="Name_LPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ГБУЗ 'Детская краевая клиническая больница' МЗ КК</Value>
+    </Setting>
+    <Setting Name="Address_LPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">350007, г. Краснодар, ул. пл. Победы, 1</Value>
+    </Setting>
+    <Setting Name="Type_LPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Государственное</Value>
+    </Setting>
+    <Setting Name="OwnDoc_LPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Клещенко Е.И.</Value>
+    </Setting>
+    <Setting Name="OwnBookKeep" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Сидорова Т.Н.</Value>
+    </Setting>
+    <Setting Name="RS_LPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">40601810900003000001</Value>
+    </Setting>
+    <Setting Name="BankName_LPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Минфин КК (ГБУЗ ДККБ, л/с 828.51.185.0) ЮЖНОЕ ГУ БАНКА РОССИИ г. Краснодар, назначение платежа - 82800000000000000 130, КОСГУ 131, Тип средств - 20.02.00</Value>
+    </Setting>
+    <Setting Name="BIK_LPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">040349001</Value>
+    </Setting>
+    <Setting Name="KS_LPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="INN_FSS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2308007718</Value>
+    </Setting>
+    <Setting Name="KPP_FSS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">230901001</Value>
+    </Setting>
+    <Setting Name="Name_FSS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ГУ - КРО ФСС РФ</Value>
+    </Setting>
+    <Setting Name="Address_FSS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">350033, г. Краснодар, ул. Ставропольская, 82</Value>
+    </Setting>
+    <Setting Name="RS_FSS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">40402810903490000001</Value>
+    </Setting>
+    <Setting Name="BankName_FSS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Южное ГУ Банка России по Краснодарскому краю г. Краснодар</Value>
+    </Setting>
+    <Setting Name="BIK_FSS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">040349001</Value>
+    </Setting>
+    <Setting Name="KS_FSS" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DocNumb_FSS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">023</Value>
+    </Setting>
+    <Setting Name="DocDate_FSS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.12.2018</Value>
+    </Setting>
+    <Setting Name="eventType_id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2, 60</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
